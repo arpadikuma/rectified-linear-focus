@@ -4,6 +4,7 @@
 # Private files (local only, not synced to GitHub)
 PRIVATE/
 private/
+.PRIVATE/
 .private/
 
 # OS
